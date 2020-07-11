@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Input_controls</string>
+    <string name="show_toast">show toast</string>
+    <string name="chocolate_syrup_text">chocolate syrup</string>
+    <string name="sprinkles_text">sprinkles</string>
+    <string name="crushed_nut_text">crushed nut</string>
+    <string name="cherries_text">cherries</string>
+    <string name="orio_cookies_crumbles_text">orio cookies crumbles</string>
+</resources>
